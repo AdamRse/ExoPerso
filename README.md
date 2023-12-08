@@ -1,0 +1,2 @@
+-En javascript, sans toucher à la structure html, mettre les 100 premiers caractères du texte, dans le premier paragraphe vide, quand on clique sur le bouton.
+-Effacer/masquer ensuite le texte du 2eme paragraphe.
